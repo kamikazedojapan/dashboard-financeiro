@@ -63,5 +63,5 @@ python -m streamlit run app.py
 
 O arquivo supermarket_sales.csv deve estar no formato .csv, separado por ; e com , como separador decimal. Você pode encontrar datasets públicos similares no Kaggle.
 
-✍️ Autor
+# ✍️ Autor
 Feito com 💙 por Dev Márcio.
