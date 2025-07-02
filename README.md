@@ -10,7 +10,7 @@ Este projeto é um painel interativo desenvolvido com **Streamlit**, **Pandas** 
 
 ## 📁 Estrutura de Arquivos
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/e93ad3b4-05a4-45a6-b28e-9395ede098a0)
 
 ---
 
