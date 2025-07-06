@@ -1,4 +1,4 @@
-# 📊 Dashboard Financeiro com Streamlit
+# 📊 Dashboard Financeiro
 
 Este projeto é um painel interativo desenvolvido com **Streamlit**, **Pandas** e **Plotly** para análise de dados de vendas de um supermercado. Ele permite visualizar o faturamento diário, por tipo de produto, formas de pagamento, avaliação por cidade e muito mais.
 
